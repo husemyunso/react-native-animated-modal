@@ -23,9 +23,9 @@ This is a simple React Native app demonstrating the use of `Animated` for creati
 - **Styling**: Custom styles for the modal, buttons, and layout are defined using `StyleSheet` to ensure a clean and consistent UI.
 
 ## Installation:
-1. Clone this repository.
+1. Copy the code in the App.js File.
 2. Run `npm install` or `yarn install` to install dependencies.
-3. Run `npm start` or `yarn start` to start the Expo development server.
+3. Start the development server.
 
 ## Dependencies:
 - Expo SDK
